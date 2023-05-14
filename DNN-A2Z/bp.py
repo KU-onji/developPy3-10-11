@@ -24,15 +24,11 @@ class Back_prop:
         }
         if self.lay2.ReLU:
             self.params = self.params | {
-                "En2": self.grad_ReLU(
-                    En=self.params["x2_err"], Y=self.lay2.output()
-                ),
+                "En2": self.grad_ReLU(En=self.params["x2_err"], Y=self.lay2.output()),
             }
         else:
             self.params = self.params | {
-                "En2": self.grad_sig(
-                    En=self.params["x2_err"], Y=self.lay2.output()
-                ),
+                "En2": self.grad_sig(En=self.params["x2_err"], Y=self.lay2.output()),
             }
         self.params = self.params | {
             "w1_err": self.grad_w(En=self.params["En2"], X=self.lay1.output()),
@@ -86,10 +82,4 @@ class Back_prop:
         }
 
     def accuracy(self):
-        return (
-            sum(
-                self.lay1.getY()[i] == self.lay3.ans()[i]
-                for i in range(self.size)
-            )
-            / self.size
-        )
+        return sum(self.lay1.getY()[i] == self.lay3.ans()[i] for i in range(self.size)) / self.size
