@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../デスクトップ/univ/lab/Environments/developPy3-10-11"
+		}
+	],
+	"settings": {
+		"python.linting.enabled": true,
+		"python.linting.pylintEnabled": false,
+		"python.linting.flake8Enabled": true,
+		"python.linting.lintOnSave": true,
+		"python.formatting.provider": "black",
+		"python.formatting.blackArgs": [
+			"--line-length=79"
+		],
+		"editor.formatOnSave": false,
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": true
+		},
+		"isort.args": [
+			"--profile",
+			"black"
+		],
+		"editor.formatOnPaste": false,
+		"editor.formatOnType": false,
+		"[python]": {
+			"editor.formatOnSave": true,
+			"editor.formatOnPaste": true,
+			"editor.defaultFormatter": "ms-python.black-formatter"
+		},
+		"editor.defaultFormatter": null,
+		"python.linting.flake8Args": [
+			"--ignore=E203,W503,W504"
+		],
+	}
+}
