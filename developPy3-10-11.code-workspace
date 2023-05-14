@@ -14,9 +14,9 @@
 		"python.linting.lintOnSave": true,
 		"python.formatting.provider": "black",
 		"python.formatting.blackArgs": [
-			"--line-length=79"
+			"--line-length=119"
 		],
-		"editor.formatOnSave": false,
+		"editor.formatOnSave": true,
 		"editor.codeActionsOnSave": {
 			"source.organizeImports": true
 		},
@@ -24,7 +24,7 @@
 			"--profile",
 			"black"
 		],
-		"editor.formatOnPaste": false,
+		"editor.formatOnPaste": true,
 		"editor.formatOnType": false,
 		"[python]": {
 			"editor.formatOnSave": true,
@@ -33,7 +33,8 @@
 		},
 		"editor.defaultFormatter": null,
 		"python.linting.flake8Args": [
-			"--ignore=E203,W503,W504"
+			"--ignore=E203,W503,W504",
+			"--max-line-length=119"
 		],
 	}
 }
