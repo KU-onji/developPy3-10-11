@@ -33,5 +33,6 @@
 			"--ignore=E203,W503,W504",
 			"--max-line-length=119"
 		],
+		"terminal.integrated.defaultProfile.windows": "Command Prompt",
 	}
 }
