@@ -130,18 +130,6 @@ def print_test(test, opt, n):
 SEED = 777
 random.seed(SEED)
 TANGO_LIST = "tango_test/list"
-KEYS = [
-    "代名詞",
-    "冠詞",
-    "前置詞",
-    "副詞",
-    "助動詞",
-    "動詞",
-    "名詞",
-    "形容詞",
-    "接続詞",
-    "間投詞",
-]
 N = 0
 
 if __name__ == "__main__":
