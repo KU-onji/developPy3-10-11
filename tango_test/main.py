@@ -1,17 +1,19 @@
 import pandas as pd
 import os
 import random
+import re
 import json
 
 
 def main():
     files = get_files(TANGO_LIST)
+    keys = get_dfkeys(TANGO_LIST)
     dfs = get_dfs(TANGO_LIST, files)
 
     for df in dfs:
         df.drop("#", axis=1, inplace=True)
 
-    vocab_list = make_vocab_list(dfs, KEYS)
+    vocab_list = make_vocab_list(dfs, keys)
 
     random.shuffle(vocab_list)
     test50 = [vocab_list[i : i + 50] for i in range(0, len(vocab_list), 50)]
@@ -28,6 +30,17 @@ def get_files(folderpath):
     curr = os.getcwd()
     folder = os.path.join(curr, folderpath)
     return [file for file in os.listdir(folder) if file.endswith(".csv")]
+
+
+def get_dfkeys(folderpath):
+    curr = os.getcwd()
+    folder = os.path.join(curr, folderpath)
+    k = []
+    for file in os.listdir(folder):
+        if file.endswith(".csv"):
+            m = re.match(r"(.*)リスト.csv", file)
+            k.append(m.group(1))
+    return k
 
 
 def get_dfs(folderpath, files):
