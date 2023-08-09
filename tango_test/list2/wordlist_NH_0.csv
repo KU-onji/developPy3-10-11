@@ -1,0 +1,1917 @@
+Grade,Unit,英語,日本語
+1,0,apple, リンゴ
+1,0,bag, かばん
+1,0,baseball, 野球
+1,0,basketball, バスケットボール
+1,0,cat, ネコ
+1,0,computer, コンピューター
+1,0,desk, 机
+1,0,dog, イヌ
+1,0,father, 父
+1,0,food, 食べ物
+1,0,friend, 友だち
+1,0,guitar, ギター
+1,0,library, 図書館
+1,0,mother, 母
+1,0,notebook, ノート
+1,0,pen, ペン
+1,0,pencil, えんぴつ
+1,0,piano, ピアノ
+1,0,school, 学校
+1,0,ball,ボール
+1,0,bed,ベッド
+1,0,box,箱
+1,0,cake,ケーキ
+1,0,car,車
+1,0,chair,いす
+1,0,cherry,サクランボ
+1,0,city,市
+1,0,coﬀee,コーヒー
+1,0,curry,カレー
+1,0,dinner,夕食
+1,0,egg,卵
+1,0,hat,帽子
+1,0,milk,牛乳
+1,0,music,音楽
+1,0,orange,オレンジ
+1,0,room,部屋
+1,0,sea,海
+1,0,shirt,シャツ
+1,0,spring,春
+1,0,summer,夏
+1,0,fall,秋
+1,0,winter,冬
+1,0,station,駅
+1,0,subject,教科，科目
+1,0,table,テーブル
+1,0,tennis,テニス
+1,0,umbrella,かさ
+1,0,volleyball,バレーボール
+1,0,clean, ～をきれいにする
+1,0,go, 行く
+1,0,like, ～が好きだ
+1,0,make, 作る
+1,0,teach,教える
+1,0,have,持っている
+1,0,write,書く
+1,0,dance,踊る
+1,0,about, ～について
+1,0,favorite, お気に入りの
+1,0,good, よい
+1,0,kind, 親切な
+1,0,hungry, 空腹の
+1,0,new, 新しい
+1,0,zero, ゼロ
+1,0,one, 1，1つの
+1,0,two, 2（の）
+1,0,three, 3（の）
+1,0,four, 4（の）
+1,0,five, 5（の）
+1,0,six, 6（の）
+1,0,seven, 7（の）
+1,0,eight, 8（の）
+1,0,nine, 9（の）
+1,0,ten, 10（の）
+1,0,eleven, 11（の）
+1,0,twelve, 12（の）
+1,0,thirteen,13（の）
+1,0,fourteen,14（の）
+1,0,fine,元気な
+1,0,black,黒（い）
+1,0,blue,青（い）
+1,0,red,赤（い）
+1,0,yellow,黄色（い）
+1,0,white,白（い）
+1,0,fifteen,15（の）
+1,0,sixteen,16（の）
+1,0,seventeen,17（の）
+1,0,eighteen,18（の）
+1,0,nineteen,19（の）
+1,0,twenty,20（の）
+1,0,thirty,30（の）
+1,0,forty,40（の）
+1,0,fifty,50（の）
+1,0,sixty,60（の）
+1,0,seventy,70（の）
+1,0,eighty,80（の）
+1,0,ninety,90（の）
+1,0,one hundred,100（の）
+1,0,one thousand,1000（の）
+1,0,January, 1月
+1,0,February, 2月
+1,0,March, 3月
+1,0,April, 4月
+1,0,May, 5月
+1,0,June, 6月
+1,0,July, 7月
+1,0,August, 8月
+1,0,September, 9月
+1,0,October, 10月
+1,0,November, 11月
+1,0,December, 12月
+1,0,Sunday, 日曜日
+1,0,Monday, 月曜日
+1,0,Tuesday, 火曜日
+1,0,Wednesday, 水曜日
+1,0,Thursday, 木曜日
+1,0,Friday, 金曜日
+1,0,Saturday, 土曜日
+1,0,What day is it today?,今日は何曜日ですか。
+1,0,first, 1番目の
+1,0,second, 2番目の
+1,0,third, 3番目の
+1,0,fourth,4番目の
+1,0,fifth,5番目の
+1,0,sixth,6番目の
+1,0,seventh,7番目の
+1,0,eighth,8番目の
+1,0,ninth,9番目の
+1,0,tenth,10番目の
+1,0,eleventh,11番目の
+1,0,twelfth,12番目の
+1,0,thirteenth,13番目の
+1,0,fourteenth,14番目の
+1,0,ﬁfteenth,15番目の
+1,0,sixteenth,16番目の
+1,0,seventeenth,17番目の
+1,0,eighteenth,18番目の
+1,0,nineteenth,19番目の
+1,0,twentieth,20番目の
+1,0,twenty-ﬁrst,21番目の
+1,0,thirtieth,30番目の
+1,0,What’s the date today?,今日は何月何日ですか。
+1,0,Ⅰ,私は
+1,0,you,あなたは
+1,0,Ⅰam ～ .,私は～です。
+1,0,study,～を勉強する
+1,0,like,～が好きである
+1,0,music,音楽
+1,0,English,英語
+1,0,Japanese,日本語
+1,0,Japan,日本
+1,0,hello,こんにちは
+1,1,Ⅰam ～ ., 私は～です。
+1,1,You are ～ ., あなたは～です。
+1,1,drink, ～を飲む
+1,1,love, ～が大好きである
+1,1,everyone, みんな
+1,1,Japanese, 日本の，日本人の
+1,1,often, しばしば，よく
+1,1,from ～, ～から，～出身の
+1,1,hello, こんにちは
+1,1,Call me ～ ., 私を～と呼んでください。
+1,1,number,数
+1,1,color,色
+1,1,Australia,オーストラリア
+1,1,green tea,緑茶
+1,1,play,（競技・ゲームなどを）する，（曲・楽器などを）演奏する
+1,1,watch, ～を（注意して）見る
+1,1,it, それを［に］
+1,1,fan, ファン
+1,1,soccer, サッカー
+1,1,not, ～でない
+1,1,yes, はい
+1,1,no, いいえ
+1,1,just, ただ～だけ
+1,1,so, だから
+1,1,How about ～ ?, ～についてはどうですか。
+1,1,cricket,クリケット
+1,1,rugby,ラグビー
+1,1,Sydney,シドニー
+1,1,cannot, ～できない
+1,1,read, 読む
+1,1,see, ～が見える，～を見る
+1,1,speak, 話す
+1,1,study, 勉強する，研究する
+1,1,swim, 泳ぐ
+1,1,badminton, バドミントン
+1,1,there," そこに, そこで"
+1,1,but, しかし
+1,1,a little, 少し
+1,1,every day, 毎日
+1,1,Thank you., ありがとう。
+1,1,"Me, too.",私も。
+1,1,oh,まあ
+1,2,This is ～ ., これは～です。
+1,2,That is ～ ., あれは～です。
+1,2,teacher, 先生
+1,2,class, 学級，クラス
+1,2,English, 英語
+1,2,restaurant, レストラン
+1,2,market, 市場
+1,2,our, 私たちの
+1,2,popular, 人気のある
+1,2,always, いつも
+1,2,in, ～（の中）に
+1,2,crowded,こみ合った，満員の
+1,2,Mr.,［男性をさして］～さん，先生
+1,2,Ms.,［女性をさして］～さん，先生
+1,2,Who is ～ ?, ～はだれですか。
+1,2,town, 町
+1,2,map, 地図
+1,2,morning, 朝，午前
+1,2,afternoon, 午後
+1,2,interesting, おもしろい，興味深い
+1,2,really, 本当に
+1,2,Good morning., おはようございます。
+1,2,picnic,ピクニック，遠足
+1,2,area,区域，場所
+1,2,shrine,神社
+1,2,symbol,象徴，記号
+1,2,the Philippines,フィリピン
+1,2,for,～に相当する
+1,2,hey,やあ
+1,2,Ⅰsee.,なるほど。
+1,2,live, 住んでいる
+1,2,walk, 歩く
+1,2,come, 来る
+1,2,breakfast, 朝食
+1,2,fruit, 果物
+1,2,here, ここに，ここで
+1,2,an, 1つの，1人の
+1,2,around, ～の近くに
+1,2,usually, たいてい，ふつう
+1,2,also, ～もまた，その上
+1,2,by bike, 自転車で
+1,2,How about you?, あなたはどうですか。
+1,2,sound,～に聞こえる，思える
+1,2,soup,スープ
+1,2,sausage,ソーセージ
+1,2,toast,トースト
+1,2,yogurt,ヨーグルト
+1,2,Sounds nice.,よさそうですね。
+1,2,near, ～の近くに［で］
+1,2,concert,演奏会，コンサート
+1,2,hall,会館，ホール
+1,2,at,～に，～で
+1,2,trumpet,トランペット
+1,2,brass band,ブラスバンド，吹奏楽
+1,2,where, どこに［で，へ］
+1,2,when, いつ，どんなとき
+1,2,practice,（～を）練習する
+1,2,station, 駅
+1,2,month,（暦の上での）月
+1,2,date, 日付
+1,2,next, 次の，となりの
+1,2,be, ～である，～になる［be動詞の元の形］
+1,2,win, ～に勝つ
+1,2,game, 試合，競技
+1,2,cool, かっこいい
+1,2,excited, わくわくした
+1,2,hard, 熱心に，一生懸命に
+1,2,all, 全部
+1,2,why, なぜ，どうして
+1,2,today, 今日
+1,2,How are you?, お元気ですか。
+1,2,luck,運
+1,2,someday,いつか
+1,2,yeah,うん，そう
+1,2,Good luck.,幸運を祈ります。
+1,2,the World Cup,ワールドカップ
+1,2,bring, 持ってくる，連れてくる
+1,2,week, 週
+1,2,water, 水
+1,2,they, 彼らは，彼女らは，それらは
+1,2,those, あれらの，それらの
+1,2,man-men, 男性［単数形-複数形］
+1,2,woman-women, 女性［単数形-複数形］
+1,2,towel,タオル
+1,2,shoe,くつ
+1,2,bottle,びん，ボトル
+1,2,coach,コーチ
+1,2,oﬀ,休んで
+1,2,racket,ラケット
+1,3,brass band, ブラスバンド，吹奏楽
+1,3,someday, いつか
+1,3,racket, ラケット
+1,3,enjoy, ～を楽しむ
+1,3,Japan, 日本
+1,3,weather, 天気
+1,3,season, 季節
+1,3,summer, 夏
+1,3,winter, 冬
+1,3,hot, 熱い，暑い
+1,3,cold, 冷たい，寒い
+1,3,please,お願いします
+1,3,worry,悩む
+1,3,turn,順番
+1,3,front,前，正面
+1,3,brave,勇敢な
+1,3,nervous,緊張して
+1,3,yourself,あなた自身を
+1,3,Enjoy yourself.,楽しく過ごしてください。
+1,3,What time is it?, 何時ですか。
+1,3,lunch, 昼食
+1,3,break, 休憩
+1,3,a.m., 午前
+1,3,p.m., 午後
+1,3,o’clock, ～時ちょうど
+1,3,noon, 正午
+1,3,now, 今
+1,3,long, 長い
+1,3,short, 短い
+1,3,some, いくつかの
+1,3,A or B, AかまたはB
+1,3,during, ～の間に
+1,3,snack,軽食
+1,3,period,（授業の）時間
+1,3,mean, ～を意味する
+1,3,animal, 動物
+1,3,sports, スポーツ
+1,3,basketball, バスケットボール
+1,3,bird, 鳥
+1,3,right, 正しい
+1,3,on the A team,［運動部］A部の一員で
+1,3,round,丸い
+1,3,football,アメリカンフットボール，サッカー
+1,3,netball,ネットボール
+1,3,national,国の
+1,3,like ～,～のような
+1,4,brave,勇敢な
+1,4,nervous,緊張して
+1,4,period,（授業の）時間
+1,4,like ～, ～のような
+1,4,sheep,ヒツジ
+1,4,kiwi fruit,キウイフルーツ
+1,4,New Zealand,ニュージーランド
+1,4,park, 公園，遊園地
+1,4,tree, 木
+1,4,boy, 男の子
+1,4,girl, 女の子
+1,4,people, 人々
+1,4,quiet, 静かな
+1,4,with, ～といっしょに
+1,4,under, ～の下に
+1,4,over there, あそこに，向こうでは
+1,4,look at ～, ～を見る
+1,4,hair,髪
+1,4,stage,舞台，ステージ
+1,4,jog,ジョギングする
+1,4,pond,池
+1,4,bench,ベンチ
+1,4,be good at ～＊, ～が得意だ
+1,4,need, ～を必要とする
+1,4,juice, ジュース
+1,4,something, 何か
+1,4,together, いっしょに
+1,4,idea,考え，アイディア
+1,4,shy,内気な，恥ずかしがりの
+1,4,thirsty,のどのかわいた
+1,4,umm,（ためらいを表して）ううん，ええ
+1,4,fried noodle,焼きそば
+1,4,Come on.,さぁ。がんばれ。
+1,4,Thanks.,ありがとう。
+1,4,"No, thank you.",いいえ，けっこうです。
+1,5,was," am, is の過去形"
+1,5,go-went, 行く［現在形-過去形］
+1,5,eat-ate, 食べる［現在形-過去形］
+1,5,see-saw, 見る［現在形-過去形］
+1,5,have-had, 持っている［現在形-過去形］
+1,5,end, 終わり，最後
+1,5,yesterday, 昨日
+1,5,big, 大きい
+1,5,small, 小さい
+1,5,delicious, とてもおいしい
+1,5,firework,花火
+1,5,candy,キャンディー
+1,5,wonderful,すばらしい
+1,5,have a ～ time,～な時を過ごす
+1,5,lots of,たくさんの
+1,5,this year,今年
+1,5,hair,髪
+1,5,thirsty,のどのかわいた
+1,5,"No, thank you.",いいえ，けっこうです。
+1,5,firework, 花火
+1,5,have a ～ time, ～な時を過ごす
+1,5,this year, 今年
+1,5,festival,祭り，催し物
+1,5,around,～のまわりを回って
+1,5,tell, 話す，教える
+1,5,movie, 映画
+1,5,book, 本
+1,5,other, ほかの
+1,5,famous, 有名な
+1,5,sometimes, ときどき
+1,5,age,年齢
+1,5,elementary school,小学校
+1,5,poster,ポスター，広告
+1,5,comic,マンガ
+1,5,starter,先発メンバー
+1,5,stadium,スタジアム，競技場
+1,6,have-has, 持っている［現在形-3単現］
+1,6,meet, 会う
+1,6,brother, 兄，弟
+1,6,sister, 姉，妹
+1,6,language, 言語
+1,6,student, 学生，生徒
+1,6,weekend, 週末
+1,6,his, 彼の
+1,6,beautiful, 美しい
+1,6,old, ～歳の
+1,6,and, そして，それから
+1,6,beach,浜辺
+1,6,speech,スピーチ，演説
+1,6,weekday,平日
+1,6,Asian,アジア（人）の
+1,6,go ～ ing,～しに行く
+1,6,get, ～を得る
+1,6,take,（写真など）を撮る
+1,6,camera, カメラ
+1,6,life, 生活
+1,6,local,（ある）地方の，地元の
+1,6,a lot of, たくさんの，多数の
+1,6,very much, とても
+1,6,post,（インターネットで情報など）を掲示する
+1,6,nature,自然
+1,6,one,［前に出てきた名詞のかわりとして］～なもの
+1,6,spot,地点，場所
+1,6,blog,ブログ
+1,6,comment,批評，コメント
+1,6,waterproof,防水の
+1,6,for ～,～するための
+1,6,question, 質問
+1,6,anyone,［疑問文・否定文で］だれか，だれも～ない
+1,6,and so on, ～など
+1,6,bean,豆
+1,6,mix,混合
+1,6,dessert,デザート
+1,6,parfait,パフェ
+1,6,sweet,甘い
+1,6,sour,酸っぱい
+1,6,in ～,～を使って
+1,6,shaved ice,かき氷
+1,6,ice cream,アイスクリーム
+1,6,go ～ ing, ～しに行く
+1,6,nature, 自然
+1,6,comment, 批評，コメント
+1,6,dessert, デザート
+1,6,dive,もぐる，ダイビングする
+1,6,Cebu,セブ（フィリピンの島）
+1,6,sinigang,シニガン（フィリピンのスープ）
+1,6,halo-halo,ハロハロ（フィリピンのパフェ）
+1,6,Filipino,フィリピンの，フィリピン語（の）
+1,6,scuba diving,スキューバダイビング
+1,6,borrow, ～を借りる
+1,6,open, 開く
+1,6,use, ～を使う
+1,6,door, ドア，戸
+1,6,homework, 宿題
+1,6,help A with B, AをBの面で手伝う
+1,6,Just a moment., ちょっと待って。
+1,6,No problem., いいですよ。
+1,6,dad,お父さん
+1,6,mom,お母さん
+1,6,fan,扇風機
+1,6,sure,もちろん
+1,6,All right.,よろしい。
+1,6,turn on,（スイッチを）入れる
+1,7,Ⅰ-my-me-mine," 私［は-の-に,を-のもの］"
+1,7,you-your-you-yours," あなた(たち)［は-の-に,を-のもの］"
+1,7,he-his-him-his," 彼［は-の-に,を-のもの］"
+1,7,she-her-her-hers," 彼女［は-の-に,を-のもの］"
+1,7,it-its-it," それ［は-の-に,を］"
+1,7,we-our-us-ours," 私たち［は-の-に,を-のもの］"
+1,7,they-their-them-theirs," 彼（女）ら，それら［は-の-に,を-のもの］"
+1,7,buy, ～を買う
+1,7,grandfather, 祖父
+1,7,grandmother, 祖母
+1,7,useful, 役に立つ
+1,7,foreign, 外国の
+1,7,perform,演じる，演奏する
+1,7,place,場所
+1,7,piece,作品
+1,7,show,ショー
+1,7,performer,演技者
+1,7,pottery,陶器，陶芸
+1,7,which, どちら，どれ，どちらの人［もの］
+1,7,hand, 手
+1,7,diﬀerent, いろいろな
+1,7,only, ただ～だけ
+1,7,Why don’t we ～ ?,（いっしょに）～しませんか。
+1,7,cushion,クッション，ざぶとん
+1,7,prop,小道具
+1,7,play a role,役を演じる
+1,7,comic storytelling,話芸
+1,7,whose, だれの，だれのもの
+1,7,wait, 待つ
+1,7,history, 歴史
+1,7,minute,（時間の単位の）分
+1,7,maybe, たぶん
+1,7,still, まだ
+1,7,be careful with ～,～の扱いに気をつける
+1,7,Here you are.,はい，どうぞ。
+1,7,ticket,切符，チケット
+1,7,over,～より多く，～をこえて
+1,7,oops,おっと
+1,7,place,場所
+1,7,play a role,役を演じる
+1,7,ticket, 切符，チケット
+1,7,over, ～より多く，～をこえて
+1,7,the U.K.,イギリス
+1,7,Diane,ダイアン［女性名］
+1,7,Euan Craig,ユアン・クレイグ［男性名］
+1,7,～ ’s,～の
+1,7,stomachache,胃痛，腹痛
+1,7,toothache,歯痛
+1,7,bad,悪い，よくない，ひどい
+1,7,wrong,具合が悪い
+1,7,too,あまりに，～すぎる
+1,7,for ～,～の間
+1,7,fever, 熱
+1,7,hour, 1時間
+1,7,take a rest, ひと休みする
+1,7,That’s too bad., それはいけませんね。
+1,7,What’s wrong?, どうかしたのですか。
+1,7,oﬃce,事務所，役所
+1,7,headache,頭痛
+1,8,think, 考える，思う
+1,8,house, 家，住宅
+1,8,tomorrow, 明日
+1,8,free, ひまな
+1,8,busy, 忙しい
+1,8,look forward to ～, ～を楽しみに待つ
+1,8,What’s up?, どうしたのですか。
+1,8,party,パーティー
+1,8,TV,テレビ
+1,8,surprise,驚くべきこと
+1,8,then,そのとき
+1,8,hello,もしもし
+1,8,bye,さよなら，バイバイ
+1,8,sound like ～,～のように聞こえる，思える
+1,8,video game,テレビゲーム
+1,8,See you.,またね。
+1,8,prepare,準備をする，備える
+1,8,say,言う
+1,8,happy,幸せな，うれしい
+1,8,best,最もよい
+1,8,decorate,～を飾る
+1,8,card,はがき
+1,8,forever,永遠に
+1,8,Happy birthday!,誕生日おめでとう。
+1,8,forget, 忘れる
+1,8,happen, 起こる
+1,8,present, プレゼント
+1,8,cute, かわいい
+1,8,quickly," 速く, すぐに"
+1,8,of course, もちろん
+1,8,goodness,善良さ，優しさ
+1,8,come in,入る
+1,8,You’re welcome.,どういたしまして。
+1,8,sound like ～, ～のように聞こえる，思える
+1,8,forever, 永遠に
+1,8,come in, 入る
+1,8,You’re welcome., どういたしまして。
+1,8,welcome,歓迎される
+1,8,Oh! My goodness!,（驚きを表して）えっ。
+1,8,dear,親愛なる～
+1,8,Get well soon!,早く元気になってね。
+1,8,Happy New Year!, 新年おめでとう。
+1,8,Best wishes for ～, ～の幸せを祈ります。
+1,9,work," 働く, 作業をする"
+1,9,try to ～," ～しようと試みる, 努力する"
+1,9,need to ～, ～する必要がある
+1,9,country, 国
+1,9,cousin, いとこ
+1,9,doctor, 医者
+1,9,hospital, 病院
+1,9,job, 仕事
+1,9,diﬃcult, 難しい
+1,9,sick, 病気の
+1,9,act,行動する
+1,9,future,未来の
+1,9,sure,確信して
+1,9,as ～,～として
+1,9,do one’s best,最善を尽くす
+1,9,globally,世界的に
+1,9,locally,その地方で
+1,9,understand, 理解する
+1,9,late, 遅刻した
+1,9,later, あとで
+1,9,first, 最初に
+1,9,get to ～, ～に着く
+1,9,listen to ～, ～を聞く
+1,9,presentation,発表
+1,9,main,主な
+1,9,ethnic,民族の
+1,9,in line,1列に並んで
+1,9,build, ～を建てる
+1,9,collect, ～を集める
+1,9,look, ～に見える
+1,9,child-children, 子供［単数形-複数形］
+1,9,river, 川
+1,9,volunteer,ボランティア
+1,9,village,村
+1,9,clean,きれいな，清潔な
+1,9,money,金
+1,9,well,井戸
+1,9,on the other hand,他方では
+1,9,for a long time,長い間
+1,9,do one’s best,最善を尽くす
+1,9,presentation,発表
+1,9,on the other hand,他方では
+1,9,for a long time,長い間
+1,9,Kenya,ケニア
+1,9,in need,困っている
+1,9,Lily,リリー［女性名］
+1,9,Smith,スミス［姓］
+1,9,Pardon me?, もう一度おっしゃってください。
+1,9,street, 通り，街路
+1,9,look for ～, ～をさがす
+1,9,Excuse me., すみません。失礼ですが。
+1,9,go along,（通り・道）を進む
+1,9,Let’s see.,［考えながら］ええと。そうですね。
+1,9,post oﬃce,郵便局
+1,9,traﬃc light,交通信号
+1,9,city hall,市役所
+1,9,cheer A up, Aを元気づける
+1,9,hero,英雄，ヒーロー
+1,9,original,独創的な
+1,9,That’s right.,そのとおり。
+1,9,guess, 推測する
+1,9,singer, 歌手
+1,9,song, 歌
+1,9,voice, 声
+1,9,word," 言葉, 歌詞"
+1,9,climb, ～に［を］のぼる
+1,9,stay, 滞在する，泊まる
+1,9,bus, バス
+1,9,mountain, 山
+1,9,tired, 疲れた
+1,9,then, それから，その次に
+1,9,be interested in ～, ～に興味を持っている
+1,9,plan,～を計画する
+1,9,choose,～を選ぶ
+1,9,trip,旅行
+1,9,foot,足
+1,9,information,情報
+1,9,visit,訪問，見学
+1,9,climber,登山者
+1,9,crowd,群衆，人ごみ
+1,9,detail,詳細
+1,9,hut,小屋
+1,9,Mt.,［山の名の前につけて］～山
+1,9,sunrise,日の出
+1,9,trail,小道
+1,9,easily,簡単に
+1,9,probably,たぶん
+1,9,anyway,とにかく
+1,9,go up,のぼる，上がる
+1,9,on foot,徒歩で
+1,9,Guess what!,あのね，何だと思う？
+1,9,Here are ～ .,ここに～があります。
+1,9,Thanks for ～ .,～をありがとう。
+1,9,travel, 旅行する
+1,9,visit, 訪ねる
+1,9,museum, 博物館，美術館
+1,9,thing, もの，こと
+1,9,vacation, 休暇
+1,9,actor,俳優
+1,9,part,役目
+1,9,performance,演技，演奏
+1,9,theater,劇場，映画館
+1,9,last,この前の
+1,9,musical,ミュージカル
+1,9,be full of ～,～でいっぱいである
+1,9,come-came, 来る［現在形-過去形］
+1,9,feel-felt, ～と感じる［現在形-過去形］
+1,9,say-said, 言う［現在形-過去形］
+1,9,spend-spent,（時）を過ごす［現在形-過去形］
+1,9,take-took,"（乗り物など）に乗る,（写真を）撮る［現在形-過去形］"
+1,9,stand-stood, 立つ，立っている［現在形-過去形］
+1,9,night, 夜
+1,9,each other, たがい（に）
+1,9,count,（～を）数える
+1,9,tower,塔，タワー
+1,9,subway,地下鉄
+1,9,each,それぞれの，各自の
+1,9,down,下に，下がって
+1,9,midnight,真夜中
+1,9,Westminster,ウエストミンスター
+1,9,count down,秒読みする
+1,9,get-got, 手に入れる［現在形-過去形］
+1,9,make-made, 作る［現在形-過去形］
+1,9,bring-brought, 持ってくる［現在形-過去形］
+1,9,nothing, 何も～ない
+1,9,family, 家族
+1,9,parent, 親
+1,9,early, 早く
+1,9,get up, 起きる，起床する
+1,9,at home, 家で［に］
+1,9,relax,くつろぐ
+1,9,traditional,伝統的な
+1,9,special,特別の
+1,9,anywhere,［否定文］どこにも（～ない）
+1,10,be full of ～, ～でいっぱいである
+1,10,count down, 秒読みする
+1,10,relax, くつろぐ
+1,10,traditional, 伝統的な
+1,10,London,ロンドン
+1,10,Tube,ロンドンの地下鉄
+1,10,leading,主要な
+1,10,walk around,歩き回る
+1,10,New Year’s Day,元日
+1,10,the British Museum,大英博物館
+1,10,Big Ben,ビッグベン
+1,10,clock tower,時計塔
+1,10,fish　and chips,フィッシュ・アンド・チップス
+1,10,Take care of yourself., お体にお気をつけて。
+1,10,miss, ～がいないのをさびしく思う
+1,10,snow, 雪が降る
+1,10,ski, スキーをする
+1,10,for the first time, はじめて
+1,10,fall-fell,転ぶ，倒れる［現在形-過去形］
+1,10,hotel,ホテル，旅館
+1,10,grandma,おばあちゃん
+1,10,outside,外で［に，へ］
+1,10,a lot,たいへん，とても
+1,10,time,～回
+1,10,fall down,倒れる
+1,10,Love，,［手紙などの結び言葉］
+1,11,were, areの過去形
+1,11,lose-lost, 負ける［現在形-過去形］
+1,11,memory, 思い出
+1,11,sad, 悲しい
+1,11,another, ほかの，別の，ちがった
+1,11,at ﬁrst, 最初，はじめのうちは
+1,11,against, ～に対抗して，反対して
+1,11,rookie,ルーキー，新人
+1,11,half,半分，2分の1
+1,11,pick up, ～を拾い上げる，車で迎えに行く
+1,11,kitchen, 台所
+1,11,lake, 湖
+1,11,set-set,準備する［現在形-過去形］
+1,11,shower,シャワー
+1,11,foot,（山の）ふもと
+1,11,campground,キャンプ場
+1,11,trash,ごみ
+1,11,tent,テント
+1,11,outdoor,屋外の
+1,11,set up,～を建てる
+1,11,Good job.,よくやった。
+1,11,know,（～を）知っている，わかる
+1,11,heart, 心臓，心
+1,11,photo, 写真
+1,11,way, 道
+1,11,these, これらの
+1,11,show,～を見せる，示す
+1,11,beat,どきどきする
+1,11,album,アルバム
+1,11,bring back,～を思い出させる
+1,11,on one’s way to ～,～へ行く途中で
+1,11,half, 半分，2分の1
+1,11,outdoor, 屋外の
+1,11,Good job., よくやった。
+1,11,album, アルバム
+1,11,bring back, ～を思い出させる
+1,11,on one’s way to ～, ～へ行く途中で
+1,11,hope,望む
+1,11,camping,キャンプ
+1,11,so,そのように，そう
+1,11,Ⅰknow.,（同意を表して）わかる。
+1,11,steak,ステーキ
+1,11,pleasure,楽しみ，喜び
+1,11,My pleasure.,どういたしまして。
+1,11,would like ～, ～がほしい（のですが）
+1,11,would like to ～, ～したい（のですが）
+1,11,corn,トウモロコシ
+1,11,server,給仕，ウエイター
+1,11,run-ran, 走る［現在形-過去形］
+1,11,win-won, ～を勝ち取る［現在形-過去形］
+1,11,event, 出来事，行事
+1,11,place, 順位，立場
+1,11,just, ちょうど
+1,11,behind, ～の後ろに
+1,11,chorus contest, 合唱コンクール
+1,11,school festival, 文化祭
+1,11,sports day, 運動会
+1,11,relay,リレー競争
+1,11,runner,走者
+1,11,field trip,遠足
+1,11,tug-of-war,綱引き
+1,11,become-became, ～になる［現在形-過去形］
+1,11,buy-bought, 買う［現在形-過去形］
+1,11,meet-met, 会う［現在形-過去形］
+1,11,think-thought, 思う［現在形-過去形］
+1,11,tell-told, 言う［現在形-過去形］
+1,11,could, ～することができた
+1,11,important, 重要な
+1,11,without, ～なしで［に］
+1,11,ask,たずねる，質問する
+1,11,give,与える
+1,11,drop,落とす
+1,11,pass,（～を）通り過ぎる
+1,11,put-put,置く［現在形-過去形］
+1,11,remember,（～を）思い出す
+1,11,sell,売る
+1,11,touch,さわる
+1,11,steal-stole,盗む［現在形-過去形］
+1,11,nod,うなずく
+1,11,surgery,（外科）手術
+1,11,face,顔
+1,11,dollar,ドル
+1,11,eye,目，視力
+1,11,thousand,"1,000（の）"
+1,11,lonely,ひとりぼっちの
+1,11,poor,貧しい，かわいそうな
+1,11,rich,金持ちの，裕福な
+1,11,blind,目の不自由な
+1,11,several,いくつかの
+1,11,again,もう一度
+1,11,away,はなれて
+1,11,suddenly,突然に
+1,11,get out of ～,～から出る
+1,11,thanks to ～,～のおかげで
+2,0,ﬁnd-found, ～を見つける，発見する［原形-過去形］
+2,0,plant,植物
+2,0,spring,春
+2,0,ago,（今から）～前に
+2,0,arrive at ～, ～に着く
+2,0,dinosaur,恐竜
+2,0,fossil,化石
+2,0,hunting,狩り，さがし求めること
+2,0,tyrannosaurus,ティラノサウルス
+2,1,be going to ～＊, ～するつもりだ
+2,1,experience, ～を経験する
+2,1,show, ～を案内する
+2,1,aunt, おば
+2,1,husband, 夫
+2,1,holiday, 休日，休暇
+2,1,plan, 計画，予定
+2,1,abroad, 外国に［へ，で］，海外に［へ，で］
+2,1,uncle,おじ
+2,1,wife,妻
+2,1,overseas,外国［海外］への，海外の
+2,1,golden,絶好の
+2,1,make,（予約を）する
+2,1,chicken, とり肉
+2,1,here, ここに，ここで
+2,1,far,遠くに［へ］
+2,1,seafood,シーフード
+2,1,reservation,予約
+2,1,ride, ～に乗る，乗って行く
+2,1,shop, 店，買い物をする
+2,1,gift, 贈り物
+2,1,cookie, クッキー
+2,1,body,体
+2,1,head,頭
+2,1,meter,メートル
+2,1,ton,トン
+2,1,of ～,～について
+2,1,take, ～を（手に）取る，連れて行く
+2,1,culture, 文化
+2,1,diﬀerent, 異なる
+2,1,ride-rode,～に乗る［原形-過去形］
+2,1,communicate,連絡する，意思疎通をする
+2,1,Chinese,中国語
+2,1,Malay,マレー語
+2,1,scary,恐ろしい
+2,1,overseas,外国［海外］への，海外の
+2,1,reservation,予約
+2,1,communicate,連絡する，意思疎通をする
+2,1,scary,恐ろしい
+2,1,the Merlion,マーライオン
+2,1,Merlion Park,マーライオン公園
+2,1,Ferris wheel,観覧車
+2,1,the Singapore Flyer,シンガポールフライヤー
+2,1,check, ～を調べる
+2,1,guest, 客
+2,1,right away, すぐに
+2,1,work,動く，うまくいく
+2,1,apologize,謝る
+2,1,trouble,困難，面倒
+2,1,air conditioner,エアコン
+2,1,clerk,店員，フロント係
+2,1,certainly,［返事で］承知しました
+2,1,next door,となりの部屋［家］の
+2,2,hear-heard, ～を耳にする［原形-過去形］
+2,2,change," 変わる, 変える"
+2,2,dish, 料理
+2,2,never, 今までに一度も～しない
+2,2,even, ～でさえ
+2,2,hear of ～, ～について聞く
+2,2,cook,（～を）料理する
+2,2,world,世界
+2,2,bread,パン
+2,2,pilaf,ピラフ
+2,2,～ kind（s）of A,～種類のA
+2,2,half, 半分だけ
+2,2,be interested in ～＊, ～に興味がある
+2,2,originally,もとは，はじめは
+2,2,you know,ねえ，～でしょう
+2,2,produce, ～を生産する，～を生じる
+2,2,company, 会社
+2,2,easy, やさしい，簡単な
+2,2,～ piece（s）of A, ～個のA
+2,2,come from ～, ～出身である，～から来ている
+2,2,century,世紀
+2,2,onion,タマネギ
+2,2,potato,ジャガイモ
+2,2,carrot,ニンジン
+2,2,cooking,料理
+2,2,directly,直接
+2,2,ﬂour,小麦粉
+2,2,powder,粉
+2,2,chef,シェフ
+2,2,spice,香辛料，スパイス
+2,2,thick,濃い
+2,2,for sale,売り物の
+2,2,name,（人など）に～という名前をつける
+2,2,outside, 外側
+2,2,because, ～だから
+2,2,wrap,～を包む
+2,2,create,～をつくり出す
+2,2,avocado,アボカドの実
+2,2,blend,混合物，ブレンド
+2,2,sauce,ソース
+2,2,seaweed,海藻
+2,2,tomato,トマト
+2,2,spaghetti,スパゲッティ
+2,2,raw,生の
+2,2,roll,巻いたもの
+2,2,after ～,～にちなんで
+2,2,for sale, 売り物の
+2,2,create, ～をつくり出す
+2,2,～ kind（s）of A, ～種類のA
+2,2,originally, もとは，はじめは
+2,2,directly, 直接
+2,2,recipe,調理法，レシピ
+2,2,Ⅰndia,インド
+2,2,the U.S.,アメリカ合衆国
+2,2,California,カリフォルニア［米国太平洋の州］
+2,2,Ⅰtaly,イタリア
+2,2,Naples,ナポリ
+2,2,British,イギリスの，イギリス人の
+2,2,sometime,いつか，そのうち
+2,2,favor,親切な行為
+2,2,ask A a favor,Aにお願いする
+2,2,another,もう1つ［1人］の
+2,2,Say cheese!,はい，チーズ！
+2,2,MayⅠ～ ?, ～してもよいですか。
+2,2,could you ～ ?, ～してくださいませんか。
+2,2,ask," たのむ, たずねる"
+2,2,call back, 折り返し電話する
+2,2,menu,メニュー
+2,3,take A away,～を奪う
+2,3,article, 記事
+2,3,surprised, 驚いた
+2,3,in the future, 将来に
+2,3,according to ～, ～によれば
+2,3,dream,夢
+2,3,advice,忠告，助言
+2,3,translator,翻訳者
+2,3,sorry,残念で
+2,3,appear, 現れる
+2,3,learn,（～を）学ぶ，習う
+2,3,should, ～すべきである
+2,3,change,～をかえる
+2,3,face,～に直面する
+2,3,age,時代
+2,3,away,（消え）去って
+2,3,disappear,姿を消す
+2,3,life-lives,生活，暮らし［単数形-複数形］
+2,3,progress,進歩
+2,3,continue, ～を続ける
+2,3,develop, ～を発達させる
+2,3,explain,（～を）説明する
+2,3,know-knew,（～を）知っている，わかる［原形-過去形］
+2,3,translate,翻訳する
+2,3,sentence,文
+2,3,knowledge,知識
+2,3,sense,感覚，センス
+2,3,strength,長所
+2,3,deep,深い
+2,3,general,一般的な
+2,3,speciﬁc,特定の，具体的な
+2,3,various,いろいろな
+2,3,can,～することがあり得る
+2,3,catch, ～を捕まえる，～をとらえる
+2,3,everything, 全てのもの［こと］
+2,3,feeling, 感情
+2,3,writer, 筆者，作家
+2,3,reason, 理由
+2,3,necessary, 必要な
+2,3,between A and B, AとBの間で
+2,3,Ⅰt is A to B, BすることはAです
+2,3,build,～を築き上げる
+2,3,miss,～を見逃す，逃す
+2,3,may,～かもしれない
+2,3,misunderstand,～を誤解する
+2,3,connect,～を結びつける
+2,3,eﬀectively,効果的に
+2,3,moreover,さらに
+2,3,also,そのうえ，さらに
+2,3,through,～によって
+2,3,disappear,姿を消す
+2,3,dream,夢
+2,3,sense, 感覚，センス
+2,3,may, ～かもしれない
+2,3,AⅠ,人工知能，AⅠ
+2,3,Career Day,職業体験日
+2,3,bridge,橋
+2,3,check,検査
+2,3,meaning,意味
+2,3,human,人間
+2,3,relationship,関係
+2,3,e-mail, Eメール
+2,3,paper, 紙
+2,3,phone, 電話
+2,3,Ⅰ’m sorry（that ～）.,（～して）すみません。
+2,3,call,電話をかけること
+2,3,car,車
+2,3,attach,～をつける
+2,3,Bye for now，,さようなら［Eメールなどの結びの言葉］
+2,3,take a look,ちらりと見る，見てみる
+2,3,improve, 上達させる
+2,3,introduce, ～を紹介する
+2,3,message, 伝言，メッセージ
+2,3,skill, 腕前，技術
+2,3,myself, 私自身を［に］
+2,3,teach-taught,教える［原形-過去形］
+2,3,tour,旅行，ツアー
+2,3,guide,ガイド，案内人
+2,3,work out,運動する
+2,3,from abroad,外国から（の）
+2,3,carry, ～を（持ち）運ぶ
+2,3,move, ～を動かす
+2,3,start, ～を始める
+2,3,everywhere, どこでも
+2,3,power,～を動力で動かす
+2,3,burn,～を燃やす
+2,3,measure,～をはかる
+2,3,ﬁre,火
+2,3,ground,地面
+2,3,hole,穴
+2,3,hour,時刻
+2,3,light,光
+2,3,line,線
+2,3,result,結果
+2,3,sun,太陽
+2,3,bell,ベルや鈴（の音）
+2,3,eﬀort,努力
+2,3,technology,科学技術
+2,3,candle,ろうそく
+2,3,Egyptian,エジプト人
+2,3,pot,つぼ
+2,3,shadow,影
+2,3,spring,ばね
+2,3,stick,棒
+2,3,great,偉大な，すぐれた
+2,3,heavy,重い
+2,3,light,軽い
+2,3,ancient,古代の
+2,3,mechanical,機械の
+2,3,these,これらの
+2,3,so,そんなに
+2,3,about,およそ，約
+2,3,however,しかしながら
+2,3,for example,例えば
+2,3,long ago,ずっと前に
+2,3,some of ～,～のうちいくつか
+2,3,little by little,少しずつ
+2,3,begin to ～,～し始める
+2,4,have［has］to, ～しなければならない
+2,4,don’［t  doesn’t］have to, ～しなくてよい
+2,4,follow, ～に従う
+2,4,rule, 規則，ルール
+2,4,homestay,ホームステイ
+2,4,member,一員，メンバー
+2,4,stay,滞在
+2,4,host,主人
+2,4,host family,ホストファミリー
+2,4,perfect,完全な，完ぺきな
+2,4,the United States,アメリカ合衆国
+2,4,must, ～しなければならない
+2,4,must not, ～してはいけない
+2,4,early, 早い
+2,4,young, 若い
+2,4,alone, ひとりで
+2,4,home,家に
+2,4,safe,安全な
+2,4,for ～,～にとって
+2,4,by ～,～までに
+2,4,go out,外出する
+2,4,ﬁnish, ～を終える
+2,4,hurt, ～を傷つける
+2,4,save, ～を節約する
+2,4,case, 場合
+2,4,wash,洗う
+2,4,bathroom,浴室
+2,4,short,短い
+2,4,much,［数えられない名詞につけて］多くの
+2,4,such,そんなに～な
+2,4,plate,（浅い）取り皿
+2,4,experience, 経験，体験
+2,4,near, 近い，近くの
+2,4,both A and B, AもBも両方
+2,4,keep ～ ing, ～し続ける
+2,4,hobby,趣味
+2,4,bored,退屈した
+2,4,couple,夫婦
+2,4,one of ～,～の1つ［1人］
+2,4,member,一員，メンバー
+2,4,go out,外出する
+2,4,such, そんなに～な
+2,4,one of ～, ～の1つ［1人］
+2,4,or,［否定文で］～もまた（～ない）
+2,4,after all,結局，とうとう
+2,4,Mrs.,［結婚している女性をさして］～さん，先生
+2,4,elderly,年配の
+2,4,carefully,注意深く
+2,4,especially, 特に
+2,4,"Best wishes,",ご多幸をお祈りします。
+2,5,product, 製品
+2,5,how to ～, ～のしかた，どう～するか
+2,5,exhibition,展示
+2,5,facility,施設，設備
+2,5,ﬁrst-hand,直接に，じかに
+2,5,universal design,ユニバーサルデザイン
+2,5,staﬀ, 職員，従業員
+2,5,over here, こちらに
+2,5,helpful,役に立つ
+2,5,bump,でこぼこ
+2,5,feature,特徴
+2,5,jar,びん，つぼ
+2,5,hold, ～を持つ，つかむ
+2,5,father, ～の生みの親
+2,5,glad, うれしい
+2,5,all, 全ての
+2,5,better, もっとよい
+2,5,old, 年をとった
+2,5,found,～を創立する
+2,5,pull,～をひく，ひっぱる
+2,5,remove,～を取り除く
+2,5,spread,～を広げる，広める
+2,5,center,（活動などの）中心地
+2,5,wheelchair,車いす
+2,5,as,～するにつれて
+2,5,be afraid that ～, ～ということを恐れる
+2,5,baby-babies,赤ん坊［単数形-複数形］
+2,5,luggage,手荷物
+2,5,professor,教授
+2,5,ramp,スロープ
+2,5,shape,形
+2,5,society,社会
+2,5,stair,［stairsで］階段
+2,5,ﬁnger,（手の）指
+2,5,childhood,子供のころ
+2,5,common,ふつうの，よくある，共通の
+2,5,disabled,体が不自由な
+2,5,way to ～,～する方法
+2,5,exhibition, 展示
+2,5,feature, 特徴
+2,5,pull, ～をひく，ひっぱる
+2,5,spread, ～を広げる，広める
+2,5,luggage, 手荷物
+2,5,shape, 形
+2,5,design,デザイン
+2,5,braille,点字
+2,5,barrier,壁，障壁
+2,5,handrail,手すり
+2,5,Ronald Mace,ロナルド・メイス［男性名］
+2,5,American,アメリカ人の
+2,5,the 1970s,1970年代
+2,5,plastic bottle,ペットボトル
+2,5,change trains,電車を乗りかえる
+2,5,stop,停留所，駅
+2,5,much,おおいに，たいへん
+2,5,east,東
+2,5,west,西
+2,5,downtown,（町の）中心街
+2,5,than, ～よりも
+2,5,research, ～を研究する，調査する
+2,5,neighbor, 隣人
+2,5,old, 古い
+2,5,tall, 背が高い
+2,5,name,名前
+2,5,quiz,クイズ
+2,5,topic,話題
+2,5,trivia,雑学的な知識
+2,5,more,［比較級を作る］（～より）もっと～
+2,5,most,［最上級を作る］いちばん～，最も～
+2,5,answer, ～に答える
+2,5,action, アクション，行動
+2,5,comedy,喜劇，コメディー
+2,5,ﬁction,小説，フィクション
+2,5,animated,アニメの
+2,5,better,"［well, very muchの比較級］よりよく，より以上に"
+2,5,best,"［well, very muchの最上級］最もよく"
+2,5,more than ～, ～より多くの
+2,5,same, 同じ
+2,5,～ such as A,Aのような～
+2,5,classmate,同級生
+2,5,love,愛
+2,5,story,物語
+2,5,graph,グラフ，図表
+2,5,horror,恐怖
+2,5,percent,パーセント
+2,5,as a result of ～,～の結果として
+2,5,sit, すわる
+2,5,letter, 文字
+2,5,large, 大きい，広い
+2,5,front, 前の
+2,5,speak-spoke,（ある言語を）話す［原形-過去形］
+2,5,row,（座席の）列
+2,5,content,内容
+2,5,data,資料，データ
+2,5,delivery,話しぶり
+2,5,feedback,意見
+2,5,slide,スライド
+2,5,speaker,話す人
+2,5,clearly,はっきりと
+2,5,back,後ろの，裏の
+2,5,second,2番めに
+2,5,eye contact,アイコンタクト
+2,5,feel like ～ ing,～したい気がする
+2,6,animated, アニメの
+2,6,as a result of ～, ～の結果として
+2,6,clearly, はっきりと
+2,6,feel like ～ ing, ～したい気がする
+2,6,Godzilla,ゴジラ
+2,6,Statue of Liberty,自由の女神像
+2,6,science ﬁction,SF，空想科学小説
+2,6,as for ～,～について言えば
+2,6,ShallⅠ［we］～ ?, ～しましょうか。
+2,6,How much ～ ?, ～はいくらですか。
+2,6,price, 値段
+2,6,size, サイズ，寸法
+2,6,high, 高い
+2,6,customer,客，顧客
+2,6,goods,商品，品物
+2,6,T-shirt,Tシャツ
+2,6,sweater,セーター
+2,6,medium,中くらいの，Mサイズの
+2,6,in front of ～, ～の前で［に］
+2,6,be afraid to ～, ～するのがこわい
+2,6,wake up-woke up,目を覚ます［原形-過去形］
+2,6,knock,ノックする
+2,6,leave-left,去る，出発する［原形-過去形］
+2,6,realize,～だと気づく
+2,6,say,～と書いてある
+2,6,pay,（代金などを）払う
+2,6,send-sent,（～に）～をおくる，～（人）を行かせる［原形-過去形］
+2,6,bring-brought,（～に）～を持ってくる［原形-過去形］
+2,6,earn,～をかせぐ
+2,6,reply,～と答える
+2,6,wonder,～だろうかと思う
+2,6,doctor,医者
+2,6,herself,彼女自身
+2,6,milk,牛乳
+2,6,note,メモ
+2,6,pocket,ポケット
+2,6,smile,ほほえみ
+2,6,bill,請求書
+2,6,coin,硬貨
+2,6,envelope,封筒
+2,6,kindness,親切
+2,6,operation,手術
+2,6,sorry,気の毒で，かわいそうで
+2,6,strong,強い，じょうぶな
+2,6,alive,生きて
+2,6,ill,病気で，ぐあいが悪い
+2,6,paid,支払い済みの
+2,6,once,かつて
+2,6,much,ずっと，はるかに
+2,6,inside,内側に
+2,6,before,以前に
+2,6,and,［命令文のあとで］そうであれば
+2,6,be about to ～,今にも～しようとしている
+2,6,in full,全部
+2,6,go by,（時間が）過ぎる，通り過ぎる
+2,6,a glass of ～,コップ1杯の
+2,6,a few,少数の，いくらかの
+2,7,decide, ～を決める
+2,7,site, 遺跡
+2,7,own, 自分自身の，独自の
+2,7,all over, ～のいたるところに
+2,7,select,～を選ぶ
+2,7,conference,会議，評議会
+2,7,type,タイプ，種類
+2,7,cultural,文化の
+2,7,natural,自然の
+2,7,mixed,混合した
+2,7,unique,独特な
+2,7,precious,貴重な，大切な
+2,7,leaf-leaves,（草木の）葉［単数形-複数形］
+2,7,great, 大きな，すごい
+2,7,because of ～,～のために
+2,7,list,～を載せる
+2,7,preserve,～を保存，保護する
+2,7,beauty,美しさ
+2,7,forest,森
+2,7,koala,コアラ
+2,7,mist,霧
+2,7,oily,油を含んだ
+2,7,World Heritage site,世界遺産
+2,7,take-took-taken, 写真を撮る［原形-過去形-過去分詞形］
+2,7,build-built-built, ～を建てる［原形-過去形-過去分詞形］
+2,7,across, ～を横切って
+2,7,damage,～に損害を与える
+2,7,sink,（水中に）しずむ
+2,7,boat,ボート
+2,7,citizen,市民
+2,7,wave,波
+2,7,cruise,遊覧，クルージング
+2,7,gondola,ゴンドラ
+2,7,island,島
+2,7,sight,光景，名所
+2,7,serious,重大な
+2,7,beautiful,美しい
+2,7,soft,やわらかい
+2,7,attractive,魅力的な
+2,7,inﬂuence, ～に影響を及ぼす
+2,7,see-saw-seen, ～が見える［原形-過去形-過去分詞形］
+2,7,know-knew-known, ～を知っている［原形-過去形-過去分詞形］
+2,7,read-read-read, ～を読む［原形-過去形-過去分詞形］
+2,7,similar, 同じような，似た
+2,7,angle,角度
+2,7,artist,芸術家
+2,7,inspiration,インスピレーション，すばらしい思いつき
+2,7,print,版画
+2,7,sacred,神聖な
+2,7,worldwide,世界中に
+2,7,yourself,あなた自身
+2,7,because of ～, ～のために
+2,7,preserve, ～を保存，保護する
+2,7,citizen,市民
+2,7,sacred,神聖な
+2,7,heritage,（文化的な）遺産
+2,7,selection,選択
+2,7,standard,基準
+2,7,Venice,ベネチア
+2,7,the Blue Mountains,ブルーマウンテンズ
+2,7,the Grand Canal,大運河
+2,7,the Rialto Bridge,リアルト橋
+2,7,for one thing,1つには
+2,7,for another,別の理由としては
+2,7,hold-held, ～を開く，行う［原形-過去形］
+2,7,dentist,歯医者
+2,7,beside, ～のそばに
+2,7,cafe,喫茶店，カフェ
+2,7,mango,マンゴー
+2,7,invite, ～を招待する
+2,7,camp,キャンプする
+2,7,kill,～を殺す
+2,7,share,～を共有する
+2,7,write-wrote,書く［原形-過去形］
+2,7,understand-understood,理解する［原形-過去形］
+2,7,gather,～を集める
+2,7,hunt,～を狩る
+2,7,end,終わる
+2,7,return,帰る，戻る
+2,7,caribou,カリブー［北米産のトナカイ］
+2,7,letter,手紙
+2,7,tradition,伝統
+2,7,life,人生
+2,7,meat,肉
+2,7,freedom,自由
+2,7,Ⅰnuit,イヌイット（の）
+2,7,mayor,市長，町長
+2,7,university,大学
+2,7,photograph,写真
+2,7,photographer,写真家
+2,7,planet,惑星
+2,7,wilderness,荒野
+2,7,tundra,ツンドラ
+2,7,scene,景色，光景
+2,7,convenience,便利なこと［もの］
+2,7,free,自由な
+2,7,Alaskan,アラスカの
+2,7,attracted,ひきつけられる
+2,7,living,生きている
+2,7,severe,厳しい
+2,7,harmoniously,調和して
+2,7,once,1度
+2,7,among ～,～の中で，～の間で
+2,7,for oneself,自力で，独力で
+2,7,come true,実現する
+2,7,in the middle of,～の真ん中に
+2,7,Shishmaref,シシュマレフ［村の名前］
+3,0,speak-spoke-spoken, 話す［原形-過去形-過去分詞形］
+3,0,believe, ～だと思う，信じる
+3,0,brain, 頭脳
+3,0,power, 力
+3,0,wide, 幅の広い
+3,0,It is said that ～, ～であるといわれている
+3,0,increase,～を増やす
+3,0,say-said-said,言う［原形-過去形-過去分詞形］
+3,0,fact,事実
+3,0,researcher,研究者
+3,0,a variety of ～,さまざまな
+3,1,apply, 申し込む
+3,1,athletics,陸上競技
+3,1,title,題名
+3,1,somewhere,どこかに［へ，で］
+3,1,above,～の上に［へ］
+3,1,below,下に，下記に［の］
+3,1,have been to ～, ～に行ったことがある
+3,1,Ⅰ’ve, Ⅰhaveの短縮形
+3,1,haven’t, have notの短縮形
+3,1,been,be動詞の過去分詞形
+3,1,hear-heard-heard, 聞く［原形-過去形-過去分詞形］
+3,1,ever,［疑問文で］今まで
+3,1,check A out,  Aを調査する
+3,1,match,試合，競技
+3,1,athlete,運動選手，アスリート
+3,1,on the internet,インターネットで
+3,1,on TV,テレビで
+3,1,make A B, AをBの状態にする
+3,1,keep A B, AをBの状態にしておく
+3,1,be amazed at, ～に驚かされる
+3,1,win-won-won,勝つ［原形-過去形-過去分詞形］
+3,1,championship,選手権，優勝
+3,1,winner,勝者，受賞者
+3,1,well-known,有名な
+3,1,positive,前向きな
+3,1,uncomfortable,心地よくない
+3,1,amazing,驚くべき
+3,1,support, ～を支援する
+3,1,opinion, 意見，考え
+3,1,decide to ～, しようと決心する
+3,1,be satisﬁed with ～, ～に満足する
+3,1,part of ～, ～の一部
+3,1,more and more, ますます（多くの）
+3,1,design,～を設計する
+3,1,establish,～を設立する
+3,1,user,ユーザー
+3,1,functional,実用的な
+3,1,ordinary,ふつうの
+3,1,possible,（物事が）可能な，できる
+3,1,stylish,おしゃれな，センスのよい
+3,1,himself,彼自身
+3,1,somewhere, どこかに［へ，で］
+3,1,below, 下に，下記に［の］
+3,1,match, 試合，競技
+3,1,on the internet, インターネットで
+3,1,positive, 前向きな
+3,1,amazing, 驚くべき
+3,1,design, ～を設計する
+3,1,possible,（物事が）可能な，できる
+3,1,speed,速度
+3,1,Paralympic,パラリンピック競技の
+3,1,sporty,スポーティーな
+3,1,sitting volleyball,シッティングバレーボール
+3,1,super, とても，すごく
+3,1,hope to ～, ～したいと思う
+3,1,get over ～, ～を乗りこえる
+3,1,write A back, Aに手紙の返事を書く
+3,1,audience,聴衆，観客
+3,1,challenge,難問
+3,1,horizon,地平線，水平線
+3,1,awesome,すばらしい，最高の
+3,1,bright,明るい
+3,1,hopeful,希望を持っている
+3,1,All the best.,万事うまくいきますように。［手紙などの言葉］
+3,2,sleep, 眠る，寝ている
+3,2,already, すでに，もう
+3,2,yet,［疑問文で］もう，すでに［否定文で］まだ
+3,2,read-read-read,読む［原形-過去形-過去分詞形］
+3,2,since, ～（して）以来
+3,2,How long ～ ?, どれくらい長く［長い］
+3,2,image,肖像，印象
+3,2,poet,詩人
+3,2,curious,好奇心の強い
+3,2,ﬁrst,はじめて
+3,2,write-wrote-written, 書く［原形-過去形-過去分詞形］
+3,2,be diﬀerent from ～, ～とはちがっている
+3,2,include,～を含む
+3,2,period,時代
+3,2,you’ve,you haveの短縮形
+3,2,become-became-become, なる［原形-過去形-過去分詞形］
+3,2,actually, 実は，本当は
+3,2,less, もっと少なく
+3,2,not only A but also B, AだけでなくBもまた
+3,2,so A that B, とてもAなのでBだ
+3,2,strict,厳しい
+3,2,fun,おもしろい
+3,2,most,たいていの
+3,2,quite,かなり
+3,2,either,［否定文の文末に用いて］～もまた（～ない）
+3,2,not always,いつも～とは限らない
+3,2,read-read-read, 読む［原形-過去形-過去分詞形］
+3,2,ﬁrst, はじめて
+3,2,include, ～を含む
+3,2,strict, 厳しい
+3,2,quite, かなり
+3,2,not always, いつも～とは限らない
+3,2,rhyme,韻をふむ
+3,2,line,行
+3,2,poetry,詩
+3,2,rhythm,リズム，調子
+3,2,syllable,音節
+3,2,website,ウェブサイト
+3,2,seasonal,季節の
+3,2,pop culture,大衆文化
+3,2,goodbye, さようなら
+3,2,feel free to ～,遠慮なく～する
+3,2,save, ～を救う
+3,2,or,［主に命令文のあとで］そうしなければ
+3,2,be in danger of, ～の危険がある
+3,2,protect,～を守る，保護する
+3,2,survive,生き残る
+3,2,change,変化
+3,2,climate,気候
+3,2,condition,状況
+3,2,extinction,絶滅
+3,2,fast,速い
+3,2,endangered,絶滅の危機にさらされている
+3,3,want A to ～,Aに～してほしい
+3,3,newspaper,新聞
+3,3,gorilla,ゴリラ
+3,3,panda,パンダ
+3,3,let,（人）に～させる
+3,3,ﬁnd-found-found, 見つける［原形-過去形-過去分詞形］
+3,3,lose-lost-lost, 失う［原形-過去形-過去分詞形］
+3,3,ﬂy, 飛ぶ
+3,3,over, ～の上に，上方に
+3,3,breed,～を飼育する，繁殖する
+3,3,capture,～をつかまえる
+3,3,destroy,～を破壊する
+3,3,die,死ぬ
+3,3,development,開発
+3,3,environment,環境
+3,3,era,時代，年代
+3,3,feather,羽
+3,3,population,人口
+3,3,last,最後の，最終の
+3,3,rapidly,速く，急速に
+3,3,safely,安全に
+3,3,until,～まで（ずっと），［否定文で］～までは（～しない）
+3,3,one by one,1人［1つ］ずつ
+3,3,aﬀect,～に影響を与える
+3,3,species-species,（生物学上の）種［単数形-複数形］
+3,3,study,研究，調査
+3,3,ecosystem,生態系
+3,3,surprisingly,驚いたことには
+3,3,relate A to B,AをBに関係させる
+3,3,electronic device,電子機器
+3,3,protect, ～を守る，保護する
+3,3,climate, 気候
+3,3,destroy, ～を破壊する
+3,3,environment,環境
+3,3,until, ～まで（ずっと），［否定文で］～までは（～しない）
+3,3,relate A to B,AをBに関係させる
+3,3,government,政府
+3,3,logging,伐採
+3,3,metal,金属
+3,3,mining,炭鉱，採掘
+3,3,cheetah,チーター
+3,3,Chinese,中国の
+3,3,die out,絶滅する
+3,3,crested ibis,トキ
+3,3,human being,人間（全体）
+3,3,the Congo,コンゴ共和国
+3,3,ⅠUCN,国際自然保護連合
+3,3,stop, ～するのをやめる
+3,3,ban, ～を禁止する
+3,3,law, 法律
+3,3,use, 使用
+3,3,work on ～, ～に取り組む，従事する
+3,3,What about ～ ?, ～についてはどう思いますか。
+3,3,cross,～を横切る，渡る
+3,3,drive,運転する
+3,3,text,（携帯電話などで）メッセージをおくる
+3,3,accident,事故
+3,3,bother,面倒
+3,3,decision,決定，結論
+3,3,Hawaii,ハワイ
+3,3,Honolulu,ホノルル
+3,3,eﬀective,効果的な
+3,3,illegal,違法な
+3,3,choose to ～,～することに決める
+3,3,plastic bag,ビニールぶくろ
+3,3,ending,（物語などの）終わり，結末
+3,3,they’ll,they willの短縮形
+3,3,corner kick,コーナーキック
+3,3,report, 報告，レポート
+3,3,tournament, トーナメント
+3,3,those, あれら，それら
+3,3,beginning,最初の部分
+3,3,real, 本当の
+3,3,after a while, しばらくして
+3,3,hold-held,～を抱く［原形-過去形］
+3,3,rise-rose,のぼる［原形-過去形］
+3,3,cry,泣く
+3,3,fall,落ちる，降る
+3,3,injure,～を傷つける
+3,3,rest,休む
+3,3,arm,腕
+3,3,bomb,爆弾
+3,3,burn,やけど
+3,3,lullaby,子守歌
+3,3,mommy,ママ
+3,3,road,道路
+3,3,shade,陰
+3,3,sweet,心地よい，やさしい
+3,3,dead,死んだ
+3,3,little,小さい，かわいい
+3,3,some,およそ
+3,3,weak,弱い，かすかな
+3,3,tightly,しっかりと
+3,3,all right,だいじょうぶな
+3,3,peace, 平和
+3,3,war, 戦争
+3,3,sky, 空
+3,3,mean-meant,～を意味する［原形-過去形］
+3,3,close,～を閉じる，終える
+3,3,extend,～を広げる
+3,3,fold,～を折る，折りたたむ
+3,3,leave,～を置いていく
+3,3,worth,～の価値がある
+3,3,pursue,～を追い求める
+3,3,courage,勇気
+3,3,agony,激しい痛み
+3,3,death,死
+3,3,president,大統領
+3,3,weapon,武器，兵器
+3,3,cloudless,雲のない
+3,3,sitting,現職の
+3,3,every ～,どの～もみな
+3,3,go through,（人生・生活）をおくる
+3,3,guest book,記名帳
+3,3,nuclear weapon,核兵器
+3,3,paper crane,折り鶴
+3,3,Peace Memorial Park,平和記念公園
+3,3,Barack Obama,バラク・オバマ
+3,4,store, ～を蓄える
+3,4,ﬁre, 火災
+3,4,number, 番号
+3,4,in case of ～, ～の場合には
+3,4,circle,～を丸で囲む
+3,4,prepared,用意ができている，備えた
+3,4,survey,調査
+3,4,disaster,災害
+3,4,extinguisher,消火器
+3,4,shelter,避難所
+3,4,do-did-done, する［原形-過去形-過去分詞形］
+3,4,make-made-made, 作る［原形-過去形-過去分詞形］
+3,4,contact,～と連絡をとる
+3,4,keep,（ずっと）～を持っている，預かる
+3,4,link,リンク，接続
+3,4,emergency,緊急事態
+3,4,kit,道具一式
+3,4,hasn’t,has notの短縮形
+3,4,supermarket, スーパーマーケット
+3,4,terrible, ひどい
+3,4,ﬁnally, ついに，やっと
+3,4,pass by, 通り過ぎる
+3,4,on the way back, 帰る途中で
+3,4,too A to B, あまりにもAなのでBできない
+3,4,drive-drove,運転する［原形-過去形］
+3,4,guide,～を案内する
+3,4,earthquake,地震
+3,4,shaking,揺れ
+3,4,scared,（～を）こわがって
+3,4,latest,最近の，最新の
+3,4,fortunately,幸運にも
+3,4,get out,外へ出る
+3,4,go back,戻る
+3,4,give-gave-given, 与える［原形-過去形-過去分詞形］
+3,4,simple, 単純な
+3,4,hand out, ～を配る
+3,4,grow,成長する，増加する
+3,4,interview,～にインタビューする
+3,4,instruction,指示
+3,4,resident,住民
+3,4,simulation,シミュレーション
+3,4,visitor,観光客
+3,4,themselves,彼ら自身を［に］
+3,4,every year,毎年
+3,4,evacuation drill,避難訓練
+3,4,prepared, 用意ができている，備えた
+3,4,contact, ～と連絡をとる
+3,4,get out, 外へ出る
+3,4,interview, ～にインタビューする
+3,4,announcement,アナウンス，発表
+3,4,traveler,旅行者
+3,4,police oﬃcer,警察官
+3,4,parking lot,駐車場
+3,4,CanⅠ～ ?, ～しましょうか。
+3,4,would like A to B, AにBしてほしい
+3,4,That’s very kind of you., どうもご親切にありがとうございます。
+3,4,You’re a lifesaver.,本当に助かります。
+3,5,person,人，個人
+3,5,international,国際的な
+3,5,be born,生まれる
+3,5,print,～を印刷する
+3,5,respect,尊敬する
+3,5,note,紙幣
+3,5,legacy,遺産
+3,5,greatly,非常に
+3,5,ﬁght, たたかう
+3,5,go on, ～を続ける
+3,5,protest,抗議する
+3,5,independence,独立
+3,5,right,権利
+3,5,violence,暴力
+3,5,tough,困難な
+3,5,send-sent-sent, ～をおくる［原形-過去形-過去分詞形］
+3,5,angry, 怒った，腹を立てた
+3,5,at that［the］time, その当時（には）
+3,5,accept,～を受け入れる
+3,5,arrest,～を逮捕する
+3,5,lead,～を導く，～を先導する
+3,5,discrimination,差別
+3,5,lawyer,弁護士
+3,5,rule,支配，統治
+3,5,sidewalk,歩道
+3,5,non-violent,非暴力の
+3,5,unfair,不公平な，不当な
+3,5,freely,自由に
+3,5,even if,たとえ～だとしても
+3,5,news, ニュース，知らせ
+3,5,expensive, 高価な
+3,5,almost, ほとんど
+3,5,continue,続く
+3,5,reach,～に着く，到着する
+3,5,march,行進
+3,5,follower,支持者
+3,5,kilometer,キロメートル
+3,5,leader,指導者，リーダー
+3,5,salt,塩
+3,5,tax,税
+3,5,peaceful,平和な
+3,5,thousands of,何千もの
+3,5,in those days,当時は
+3,5,respect, 尊敬する
+3,5,little, ほとんど～ない
+3,5,accept, ～を受け入れる
+3,5,lead, ～を導く，～を先導する
+3,5,continue, 続く
+3,5,reach, ～に着く，到着する
+3,5,thousands of, 何千もの
+3,5,human rights,人権
+3,5,South Africa,南アフリカ
+3,5,the Salt March,塩の行進
+3,5,Mahatma Gandhi,マハトマ・ガンディー
+3,5,colony,植民地
+3,5,fast,断食の期間
+3,5,British,イギリス人
+3,5,Ⅰndian,インドの，インド人の
+3,5,rupee,ルピー［インドの通貨］
+3,5,This ﬁgure shows that ～, この図は～であることを示します。
+3,5,growth,増加
+3,5,billion,10億
+3,5,China,中国
+3,5,populous,人口の多い
+3,5,powerful,力強い，有力な
+3,5,around, ～のまわりに
+3,5,discover,～を発見する
+3,5,waste,～をむだに使う
+3,5,behavior,ふるまい
+3,5,character,登場人物
+3,5,cloth,布
+3,5,clothes,衣服
+3,5,department store,デパート
+3,5,resource,資源
+3,5,wrestling,レスリング
+3,5,convenient,便利な
+3,5,pretty,かわいい，きれいな
+3,5,square,正方形の
+3,5,fold A up,Aを折りたたむ
+3,5,a kind of,一種の～
+3,5,instead of ～,～のかわりに
+3,6,run, ～を主催する
+3,6,this way, このように
+3,6,donate,～を寄付する
+3,6,border,国境
+3,6,campaign,キャンペーン
+3,6,relation,関係
+3,6,supply,必需品
+3,6,unused,未使用の
+3,6,overseas,外国へ［で］
+3,6,beyond,～をこえたところ［へ］
+3,6,so far, 今まで（は），これまで（は）
+3,6,deﬁnitely,もちろん，確かに
+3,6,receive, ～を受け取る
+3,6,building, 建物，ビル
+3,6,son, 息子
+3,6,daughter, 娘
+3,6,be ready for ～, ～の用意ができている
+3,6,encourage,～を勇気づける，励ます
+3,6,imagine,～を想像する
+3,6,air,空気
+3,6,exchange,交流
+3,6,service,サービス，公的事業
+3,6,illiterate,読み書きのできない
+3,6,encourage A to B,AにBするように促す
+3,6,most of ～,～の大部分
+3,6,in the open air,屋外で
+3,6,sell-sold-sold, 売る［原形-過去形-過去分詞形］
+3,6,depend on ～, ～に頼る
+3,6,import,～を輸入する
+3,6,interdependent,相互に依存している
+3,6,surround,～を囲む
+3,6,pants,ズボン
+3,6,coat,上着，コート
+3,6,shirt,シャツ
+3,6,beef,牛肉
+3,6,pork,豚肉
+3,6,exception,例外
+3,6,survival,存続，生き残ること
+3,6,trade,貿易
+3,6,daily,日常の
+3,6,overseas,外国へ［で］
+3,6,encourage A to B,AにBするように促す
+3,6,most of ～, ～の大部分
+3,6,import, ～を輸入する
+3,6,backpack,"バックパック, ランドセル"
+3,6,Afghanistan,アフガニスタン
+3,6,Brazil,ブラジル
+3,6,Thailand,タイ
+3,6,the globe,地球
+3,6,fried chicken,フライドチキン
+3,6,point, 特徴，論点
+3,6,agree with ～, ～に賛成する
+3,6,seem,～のように見える，思われる
+3,6,transport,～を輸送する
+3,6,disagree,意見が合わない
+3,6,farmer,農場経営者
+3,6,cheap,（品物・料金が）安い
+3,6,domestic,国内の
+3,6,besides,そのうえ，さらに
+3,6,food mile,フードマイル
+3,6,in season,（食べ物が）旬で
+3,6,wear, ～を着ている，身につけている
+3,6,stand, ～をがまんする
+3,6,eat out, 外食する
+3,6,not ～ at all, 少しも～ない
+3,6,judge,審判員
+3,6,side,側，面
+3,6,countryside,いなか
+3,6,debate,討論，ディベート
+3,6,uniform,制服，ユニフォーム
+3,6,variety,変化（に富んでいること）
+3,6,stationery,文房具
+3,6,colorful,色彩に富んだ
+3,6,fantastic,すばらしい，すてきな
+3,6,negative,否定的な，よくない
+3,6,friendly,好意的な，親切な
+3,6,ocean,大洋，海
+3,6,oil,油，石油
+3,6,radiation,放射能
+3,6,waste,ごみ，廃棄物
+3,6,steam,蒸気
+3,6,dangerous,危険な
+3,6,renewable,再生可能な
+3,6,sustainable,持続可能な
+3,6,relatively,比較的
+3,6,run out of,～を使い果たす
+3,6,wind power,風力
+3,6,carbon dioxide,二酸化炭素
+3,6,fossil fuel,化石燃料
+3,6,natural gas,天然ガス
+3,6,nuclear power,原子力
+3,6,nuclear waste,核廃棄物
+3,6,a large amount of ～,たくさんの量の～
+3,6,all the time, 常に
+3,6,charge,～を充電する
+3,6,control,～を管理する
+3,6,cut-cut-cut,～を切る［原形-過去形-過去分詞形］
+3,6,handle,～を処理する
+3,6,invent,～を発明する
+3,6,progress,進歩する
+3,6,release,～を放出する
+3,6,solve,～を解決する
+3,6,quarter,4分の1
+3,6,sunshine,日光
+3,6,chemical,化学物質
+3,6,coal,石炭
+3,6,consumer,消費者
+3,6,electricity,電気，電力
+3,6,energy,エネルギー
+3,6,health,健康
+3,6,heat,熱
+3,6,someone, だれか，ある人
+3,6,attend,～に通う，～に出席する
+3,6,connect,つながる
+3,6,graduate,卒業する
+3,6,trust,～を信頼する，～だと期待する
+3,6,magazine,雑誌
+3,6,beginner,初心者
+3,6,calligraphy,書道
+3,6,cancer,（病気の）がん
+3,6,college,（単科）大学
+3,6,dot,点
+3,6,employee,従業員
+3,6,focus,中心
+3,6,interest,興味
+3,6,loss,喪失
+3,6,mirror,鏡
+3,6,same,同じもの［こと］
+3,6,studio,スタジオ
+3,6,graduation,卒業
+3,6,successful,成功した
+3,6,artistic,芸術的な，美しい
+3,6,creative,想像力がある
+3,6,foolish,愚かな
+3,6,limited,限られた
+3,6,lucky,幸運な
+3,6,gone,なくなった，行ってしまった
+3,6,somehow,何らかの形で
+3,6,though,～だけれども
+3,6,make all the diﬀerence,大きなちがいを生む
+3,6,drop out,中退する
+3,6,get ﬁred,解雇される
+3,6,go on,（時間が）過ぎ去る
+3,6,have no idea,見当もつかない
+3,6,run away,逃げる
