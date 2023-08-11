@@ -125,10 +125,10 @@ def input_num(ls, title):
             return num
         else:
             print(f"{title}は{min(ls)}～{max(ls)}の範囲で入力してください。")
-            return input_num(ls)
+            return input_num(ls, title)
     except ValueError:
         print(f"{title}は{min(ls)}～{max(ls)}の半角数字で入力してください。")
-        return input_num(ls)
+        return input_num(ls, title)
 
 
 def print_read_test(df, test):
