@@ -140,9 +140,9 @@ Grade,Unit,英語,日本語
 1,0,twenty-ﬁrst,21番目の
 1,0,thirtieth,30番目の
 1,0,What’s the date today?,今日は何月何日ですか。
-1,0,Ⅰ,私は
+1,0,I,私は
 1,0,you,あなたは
-1,0,Ⅰam ～ .,私は～です。
+1,0,I am ～ .,私は～です。
 1,0,study,～を勉強する
 1,0,like,～が好きである
 1,0,music,音楽
@@ -150,7 +150,7 @@ Grade,Unit,英語,日本語
 1,0,Japanese,日本語
 1,0,Japan,日本
 1,0,hello,こんにちは
-1,1,Ⅰam ～ ., 私は～です。
+1,1,I am ～ ., 私は～です。
 1,1,You are ～ ., あなたは～です。
 1,1,drink, ～を飲む
 1,1,love, ～が大好きである
@@ -221,7 +221,7 @@ Grade,Unit,英語,日本語
 1,2,the Philippines,フィリピン
 1,2,for,～に相当する
 1,2,hey,やあ
-1,2,Ⅰsee.,なるほど。
+1,2,I see.,なるほど。
 1,2,live, 住んでいる
 1,2,walk, 歩く
 1,2,come, 来る
@@ -465,7 +465,7 @@ Grade,Unit,英語,日本語
 1,6,sure,もちろん
 1,6,All right.,よろしい。
 1,6,turn on,（スイッチを）入れる
-1,7,Ⅰ-my-me-mine," 私［は-の-に,を-のもの］"
+1,7,I-my-me-mine," 私［は-の-に,を-のもの］"
 1,7,you-your-you-yours," あなた(たち)［は-の-に,を-のもの］"
 1,7,he-his-him-his," 彼［は-の-に,を-のもの］"
 1,7,she-her-her-hers," 彼女［は-の-に,を-のもの］"
@@ -767,7 +767,7 @@ Grade,Unit,英語,日本語
 1,11,hope,望む
 1,11,camping,キャンプ
 1,11,so,そのように，そう
-1,11,Ⅰknow.,（同意を表して）わかる。
+1,11,I know.,（同意を表して）わかる。
 1,11,steak,ステーキ
 1,11,pleasure,楽しみ，喜び
 1,11,My pleasure.,どういたしまして。
@@ -935,10 +935,10 @@ Grade,Unit,英語,日本語
 2,2,originally, もとは，はじめは
 2,2,directly, 直接
 2,2,recipe,調理法，レシピ
-2,2,Ⅰndia,インド
+2,2,India,インド
 2,2,the U.S.,アメリカ合衆国
 2,2,California,カリフォルニア［米国太平洋の州］
-2,2,Ⅰtaly,イタリア
+2,2,Italy,イタリア
 2,2,Naples,ナポリ
 2,2,British,イギリスの，イギリス人の
 2,2,sometime,いつか，そのうち
@@ -946,7 +946,7 @@ Grade,Unit,英語,日本語
 2,2,ask A a favor,Aにお願いする
 2,2,another,もう1つ［1人］の
 2,2,Say cheese!,はい，チーズ！
-2,2,MayⅠ～ ?, ～してもよいですか。
+2,2,May I ～ ?, ～してもよいですか。
 2,2,could you ～ ?, ～してくださいませんか。
 2,2,ask," たのむ, たずねる"
 2,2,call back, 折り返し電話する
@@ -991,7 +991,7 @@ Grade,Unit,英語,日本語
 2,3,reason, 理由
 2,3,necessary, 必要な
 2,3,between A and B, AとBの間で
-2,3,Ⅰt is A to B, BすることはAです
+2,3,It is A to B, BすることはAです
 2,3,build,～を築き上げる
 2,3,miss,～を見逃す，逃す
 2,3,may,～かもしれない
@@ -1005,7 +1005,7 @@ Grade,Unit,英語,日本語
 2,3,dream,夢
 2,3,sense, 感覚，センス
 2,3,may, ～かもしれない
-2,3,AⅠ,人工知能，AⅠ
+2,3,AI,人工知能，AI
 2,3,Career Day,職業体験日
 2,3,bridge,橋
 2,3,check,検査
@@ -1015,7 +1015,7 @@ Grade,Unit,英語,日本語
 2,3,e-mail, Eメール
 2,3,paper, 紙
 2,3,phone, 電話
-2,3,Ⅰ’m sorry（that ～）.,（～して）すみません。
+2,3,I’m sorry（that ～）.,（～して）すみません。
 2,3,call,電話をかけること
 2,3,car,車
 2,3,attach,～をつける
@@ -1230,7 +1230,7 @@ Grade,Unit,英語,日本語
 2,6,Statue of Liberty,自由の女神像
 2,6,science ﬁction,SF，空想科学小説
 2,6,as for ～,～について言えば
-2,6,ShallⅠ［we］～ ?, ～しましょうか。
+2,6,Shall I ［we］～ ?, ～しましょうか。
 2,6,How much ～ ?, ～はいくらですか。
 2,6,price, 値段
 2,6,size, サイズ，寸法
@@ -1364,7 +1364,7 @@ Grade,Unit,英語,日本語
 2,7,life,人生
 2,7,meat,肉
 2,7,freedom,自由
-2,7,Ⅰnuit,イヌイット（の）
+2,7,Inuit,イヌイット（の）
 2,7,mayor,市長，町長
 2,7,university,大学
 2,7,photograph,写真
@@ -1404,7 +1404,7 @@ Grade,Unit,英語,日本語
 3,1,above,～の上に［へ］
 3,1,below,下に，下記に［の］
 3,1,have been to ～, ～に行ったことがある
-3,1,Ⅰ’ve, Ⅰhaveの短縮形
+3,1,I’ve, Ihaveの短縮形
 3,1,haven’t, have notの短縮形
 3,1,been,be動詞の過去分詞形
 3,1,hear-heard-heard, 聞く［原形-過去形-過去分詞形］
@@ -1560,7 +1560,7 @@ Grade,Unit,英語,日本語
 3,3,crested ibis,トキ
 3,3,human being,人間（全体）
 3,3,the Congo,コンゴ共和国
-3,3,ⅠUCN,国際自然保護連合
+3,3,IUCN,国際自然保護連合
 3,3,stop, ～するのをやめる
 3,3,ban, ～を禁止する
 3,3,law, 法律
@@ -1685,7 +1685,7 @@ Grade,Unit,英語,日本語
 3,4,traveler,旅行者
 3,4,police oﬃcer,警察官
 3,4,parking lot,駐車場
-3,4,CanⅠ～ ?, ～しましょうか。
+3,4,Can I ～ ?, ～しましょうか。
 3,4,would like A to B, AにBしてほしい
 3,4,That’s very kind of you., どうもご親切にありがとうございます。
 3,4,You’re a lifesaver.,本当に助かります。
@@ -1746,7 +1746,7 @@ Grade,Unit,英語,日本語
 3,5,colony,植民地
 3,5,fast,断食の期間
 3,5,British,イギリス人
-3,5,Ⅰndian,インドの，インド人の
+3,5,Indian,インドの，インド人の
 3,5,rupee,ルピー［インドの通貨］
 3,5,This ﬁgure shows that ～, この図は～であることを示します。
 3,5,growth,増加
